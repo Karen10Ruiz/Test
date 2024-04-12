@@ -1,0 +1,14 @@
+* {
+  margin: 10px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(42, 210, 165);
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
